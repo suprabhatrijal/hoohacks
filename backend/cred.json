@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pacific-diode-381715",
+  "private_key_id": "77ebecd581ce1bb57b3600789de1531914371819",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6v+uEhPbdhkeB\nlrVP3KX55XKN7jUJLL0tpp9Sk7XoX4VKhbyQ4GAYJ7YULHWSUPwulvBZ1Iuw0jFW\nz882ZvUk1HjCbCKQ3hVM3ux/GgygHcPw6GrZQqhb+G1KUQCZFFnLhoiHoFPPEF6R\nYoYNM+oYg/Cl3hxJZowQlFFSeEIqGnzxFm3XdXumJIl5nfuHpgHE9d7vkY+xWVFY\n/XXP2KppRsgefC6lWTxvCQKbwjDN9v8k1dY/MqO5eHIIlNtOh84fmnu3mTnq+h5g\n7xLh7Vu6meY4WAW0Bn+DM1JCSGOdM6fGA8l8HCjWmG8sByvNhLLb6H9KDmkiFZqb\n2IKwymFnAgMBAAECggEAF/D3zs7vCRpTENF94Br/qkhYmx/WlnJbtGkKlDRnRemi\nYG9BwT8KrWjAkS3b9XdCxURI1Eiz5JDQjiUTwbve91WdP6ug83qNN4QoGelV2gcc\nMhvRwEBT7iqB9FzrGzTpMsxGCkErIr4h/uMnIAqE8JdQTYC/6/G6HiatlZ7g40hh\no8nDg/lwdEkSF66wmCxQUGn9neeVR0xWPjXRWK9q0ioB4AOe//GgJBnn4ph6YKcz\n4gF9hGSwPSvdHsUtRTEUlgbWc+0cMpDifkOvD7Z6UfqtuuPRjbEoALDLrmIxQLVX\nJ28cFIrhqcNgkJwop+xrp5aDY0e9QbXOnT4AQmPIuQKBgQDe5fTpsIlEaP9SLqmt\nfXMo/ANU9hAUNXhs+itLoaVcb2Ypiy8NFgdHPRV0scTqhUfDCxlDaJCf46OtEjEl\nH3RoAhOe6/iXmBatUXHZRYNtzZM2qEPJP1OvcyeE7J8d3+5G8LWsO5voEQDgvVqB\nj1TSTSHo1XtifM8rt5CtL8TKSQKBgQDWe67qhb7MS0hQxyZT0BstbW7aj0Hq1Vf8\ncJ0CSRy5+lwpfY5qr0yXso/X28TyhOe1frdvBmcg6Z4zIEasRm9rKOy7oaYQZQu4\nd2ZvHmAWM+3D9xRw5hBt9zBo+kwNQcUhjgtIsmcCAAvuC88p5crkxwmm48tfiCjX\nqjEmPc9OLwKBgQCJZB0OXm596GpYccLM2WK+hHhZSkKm8j6Ejb9aIw0WaOQD/3LF\nEiryUkiDYYALPpP5OUIdNrrOkzY0W95HD5hk88K8Vp8oceqocmdGkX5tlCWFrzn5\nNjuTDdvyJxf9BiaNO5n/y85RwQlVfeHnsj2KU1jvd4dSMbRRMhjPZ35ZYQKBgHGp\nNbaejc/hjT8RamQ8Akr+lSJJjJsP2AK1At91Mz3zSOfL2675mtNBEy1HD4WdnNT3\ng+nYMMqmQunBDvK4mM7m7x03urMxeRaWX7g/FphtiHCy/SgfI1HDDupyyd60nez8\nQ0qREDllIO1TYMNJPU4jlB/W062akFpJnKYxVyyNAoGANpDPZaDrStM9PrHu3oue\n0dx0F2pydLXAFcPnOhzab77stDM6/j3jDxIRSZz7nFbpgAepP35uy+nYaXniuP/y\nOcRZAXww0mYKfdTSDvzX1h3J2UMDRiX56Yw7Ik1phQuaP/loCkJwepH0RPGugRKd\nUXtso1hwcanMchmtTF3BRag=\n-----END PRIVATE KEY-----\n",
+  "client_email": "soupeverite@pacific-diode-381715.iam.gserviceaccount.com",
+  "client_id": "115148506416766739663",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/soupeverite%40pacific-diode-381715.iam.gserviceaccount.com"
+}
